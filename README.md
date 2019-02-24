@@ -1,6 +1,6 @@
 # Docker images
 
-This repo provides basic docker images that can be used to quickly set up data science/advanced analytics projects. 
+This repo provides basic docker images that can be used to quickly set up data science/advanced analytics development environments. All images are available on [docker hub](https://hub.docker.com/u/maurony). More images coming soon..
 
 ## Microsoft R Open Images
 
