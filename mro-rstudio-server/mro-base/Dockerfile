@@ -38,6 +38,11 @@ RUN apt-get update \
 		libpango-1.0-0 \
 		libxt6 \
 		libsm6 \
+		# dependecies for packages
+		# devtools
+		libssl-dev \
+		zlib1g-dev \
+                libgit2-dev \
 	&& rm -rf /var/lib/apt/lists/*
 
 # Use major and minor vars to re-use them in non-interactive installation script
